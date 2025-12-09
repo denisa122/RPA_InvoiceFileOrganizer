@@ -1,0 +1,6 @@
+{
+  "Name": "Invoice File Organizer",
+  "ProjectType": "Process",
+  "Description": "Project for sorting invoice files by extracting the year from their filenames and organizing them into corresponding folders",
+  "MainFile": "Main.xaml"
+}
